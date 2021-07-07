@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+! [Image of a Llama] (https://en.wikipedia.org/wiki/Lama_(genus)#/media/File:Llama,_peru,_machu_picchu.jpg)
